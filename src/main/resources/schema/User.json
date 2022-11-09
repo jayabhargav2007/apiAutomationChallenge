@@ -1,0 +1,32 @@
+{
+  "title": "Users",
+  "type": "Object",
+  "required": [
+    "id",
+    "name",
+    "username ",
+    "email",
+    "phone",
+    "website"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "id": {
+      "type": "integer"
+    },
+    "username": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    }
+  }
+}
